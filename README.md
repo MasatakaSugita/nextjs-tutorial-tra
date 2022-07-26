@@ -9,7 +9,9 @@ npm run dev
 # or
 yarn dev
 ```
-![](../../Pictures/スクリーンショット/スクリーンショット 2022-07-26 9.10.46.png)
+![スクリーンショット 2022-07-26 9 10 46](https://user-images.githubusercontent.com/105254223/180900015-9d4c08af-5162-44d6-94c6-10fc03a8138f.png)
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 # pre-renderring
