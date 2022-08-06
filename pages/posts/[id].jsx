@@ -28,7 +28,7 @@ export default function Post({ postData }) {
  * @returns {Promise<{paths: *, fallback: boolean}>}
  */
 export async function getStaticPaths() {
-  const paths = getAllPostIds();
+  const paths = await getAllPostIds();
   return {
     paths,
     fallback: false,
