@@ -26,4 +26,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
       * pagesディレクトリでのみ使える
   * 2.取得したデータを使ってhtmlをレンダリング
 
-aa
+aaaaa
