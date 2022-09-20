@@ -25,3 +25,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
     * getStaticProps本番環境ではビルド時、開発環境ではリクエスト毎に実行される。
       * pagesディレクトリでのみ使える
   * 2.取得したデータを使ってhtmlをレンダリング
+
+aa
